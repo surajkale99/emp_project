@@ -51,7 +51,7 @@ A **GUI-based Employee Management System** developed in **Python** using **Tkint
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/employee-management-system.git
+    git clone https://github.com/surajkale99/emp_project.git
     ```
 
 2. Navigate to the project directory:
@@ -88,6 +88,7 @@ A **GUI-based Employee Management System** developed in **Python** using **Tkint
 3. Use the **CLEAR** button to remove all entries displayed in the table.
 
 ---
+
 
 ## Screenshots
 
